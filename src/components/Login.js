@@ -49,7 +49,7 @@ class Login extends React.Component {
               <h1 className="text-xs-center">Sign In</h1>
               <p className="text-xs-center">
                 <Link to="/register">
-                  Need an account?
+                  Need a new account?
                 </Link>
               </p>
 
